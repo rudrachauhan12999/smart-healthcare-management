@@ -1,0 +1,8 @@
+patient_code,full_name,date_of_birth,gender,phone,email
+P001,John Smith,1990-04-15,Male,9876543210,john@example.com
+P002,Sarah Johnson,1988-09-22,Female,9876543211,sarah@example.com
+P003,Michael Brown,1995-01-10,Male,9876543212,michael@example.com
+P004,Emily Davis,1992-07-18,Female,9876543213,emily@example.com
+P005,David Wilson,1985-12-05,Male,9876543214,david@example.com
+P006,,1991-03-20,Female,9876543215,invalid@example.com
+P001,Robert Taylor,1987-06-11,Male,9876543216,duplicate@example.com

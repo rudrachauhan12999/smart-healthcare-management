@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn
+supabase
+PyMuPDF
+pytesseract
+Pillow
+pydantic
+pydantic-settings
+python-multipart

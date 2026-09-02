@@ -1,4 +1,4 @@
-@"
+
 from uuid import UUID
 
 from fastapi import APIRouter, HTTPException
@@ -52,4 +52,3 @@ def get_medical_records(patient_id: UUID):
             status_code=500,
             detail="Unable to retrieve medical records",
         )
-"@ | Set-Content app\api\medical_records.py
